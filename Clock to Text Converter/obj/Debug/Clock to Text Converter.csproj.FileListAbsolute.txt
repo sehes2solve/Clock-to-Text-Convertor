@@ -1,0 +1,10 @@
+c:\users\pc\documents\visual studio 2015\Projects\Clock to Text Converter\Clock to Text Converter\bin\Debug\Clock to Text Converter.exe.config
+C:\Users\pc\Desktop\Clock to Text Converter\Clock to Text Converter\bin\Debug\Clock to Text Converter.exe.config
+C:\Users\pc\Desktop\Clock to Text Converter\Clock to Text Converter\obj\Debug\Clock to Text Converter.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Clock to Text Converter\Clock to Text Converter\obj\Debug\Clock_to_Text_Converter.Properties.Resources.resources
+C:\Users\pc\Desktop\Clock to Text Converter\Clock to Text Converter\obj\Debug\Clock to Text Converter.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Clock to Text Converter\Clock to Text Converter\bin\Debug\Clock to Text Converter.exe
+C:\Users\pc\Desktop\Clock to Text Converter\Clock to Text Converter\bin\Debug\Clock to Text Converter.pdb
+C:\Users\pc\Desktop\Clock to Text Converter\Clock to Text Converter\obj\Debug\Clock to Text Converter.exe
+C:\Users\pc\Desktop\Clock to Text Converter\Clock to Text Converter\obj\Debug\Clock to Text Converter.pdb
+C:\Users\pc\Desktop\Clock to Text Converter\Clock to Text Converter\obj\Debug\Clock_to_Text_Converter.Form_Clock.resources
