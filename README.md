@@ -1,1 +1,0 @@
-# Clock-to-Text-Convertor
